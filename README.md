@@ -1,4 +1,8 @@
 
+# RESTful API
+
+Short repository to describe how to works all kinds of request such as get, post, put and delete
+
 ## Run Locally
 
 Clone the project
@@ -24,4 +28,8 @@ Start the server
 ```bash
   npm run dev
 ```
+
+
+
+
 
